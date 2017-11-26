@@ -1,0 +1,8 @@
+{
+  "name": "loperpapua-ionic3",
+  "app_id": "ae0b67c4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
